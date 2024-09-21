@@ -1,0 +1,14 @@
+# Bazel output files
+bazel-bin/
+bazel-out/
+bazel-testlogs/
+bazel-playground/
+.bazelrc
+.bazel-deps
+*.o
+*.so
+*.a
+*.dSYM
+*.log
+*.tgz
+*.tar.gz
